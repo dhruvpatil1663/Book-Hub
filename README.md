@@ -1,5 +1,7 @@
 # Book-Hub (2025)
 Developed by: Dhruvkumar Patil
+
+
 Book-Hub is a full-stack web platform for buying and reselling books using PHP and MySQL.
 
 ## Features
